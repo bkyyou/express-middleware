@@ -14,7 +14,7 @@
     "express": "^4.17.1",
     "express-art-template": "^1.0.1",
     "http-proxy-middleware": "^1.0.5",
-    "next": "^9.4.4",
+    "next": "^11.1.0",
     "request": "^2.88.2"
   }
 }
